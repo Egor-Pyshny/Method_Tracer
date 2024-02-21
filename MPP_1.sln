@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP_1", "MPP_1\MPP_1.csproj", "{0D737A13-97F7-4059-962F-5D93C45A4EEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracer&Formating", "Tracer&Formating\Tracer&Formating.csproj", "{8268DC23-EC2F-4749-AE5B-062A94C3AB67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0D737A13-97F7-4059-962F-5D93C45A4EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0D737A13-97F7-4059-962F-5D93C45A4EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0D737A13-97F7-4059-962F-5D93C45A4EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0D737A13-97F7-4059-962F-5D93C45A4EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8268DC23-EC2F-4749-AE5B-062A94C3AB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8268DC23-EC2F-4749-AE5B-062A94C3AB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8268DC23-EC2F-4749-AE5B-062A94C3AB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8268DC23-EC2F-4749-AE5B-062A94C3AB67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
