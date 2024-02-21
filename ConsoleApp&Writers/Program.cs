@@ -14,8 +14,8 @@ IWriter writer = new ConsoleWriter();
 IWriter writer1 = new FileWriter("1.json");
 IWriter writer2 = new FileWriter("2.xml");
 
-writer2.Write(xmlSerializer.Serialize(traceResult));
-writer1.Write(jsonSerializer.Serialize(traceResult));
+writer.Write(xmlSerializer.Serialize(traceResult));
+writer.Write(jsonSerializer.Serialize(traceResult));
 
 public class ThreadFoo
 {
