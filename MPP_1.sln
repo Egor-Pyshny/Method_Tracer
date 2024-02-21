@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracer&Formating", "Tracer&Formating\Tracer&Formating.csproj", "{8268DC23-EC2F-4749-AE5B-062A94C3AB67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp&Writers", "ConsoleApp&Writers\ConsoleApp&Writers.csproj", "{C331FC80-C3E7-4AB0-8703-9E8E31A2B53C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8268DC23-EC2F-4749-AE5B-062A94C3AB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8268DC23-EC2F-4749-AE5B-062A94C3AB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8268DC23-EC2F-4749-AE5B-062A94C3AB67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C331FC80-C3E7-4AB0-8703-9E8E31A2B53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C331FC80-C3E7-4AB0-8703-9E8E31A2B53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C331FC80-C3E7-4AB0-8703-9E8E31A2B53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C331FC80-C3E7-4AB0-8703-9E8E31A2B53C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
